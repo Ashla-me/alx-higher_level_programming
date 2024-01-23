@@ -10,4 +10,5 @@ class Square:
     """
 
     def __init__(self, size):
+        pass
         self._square__size = size
