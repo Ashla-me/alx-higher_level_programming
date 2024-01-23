@@ -1,9 +1,10 @@
 #!/usr/bin/python3
-"""Class Square: defines a square"""
+""" class Square that defines a square"""
 
 
 class Square:
-    """square class that prints only integer"""
+    """ class Square that defines a square"""
+
     def __init__(self, size=0):
         """initialize square
         Args:
@@ -16,9 +17,10 @@ class Square:
         else:
             self.__size = size  #: size of the square
 
-        def area(self):
-            """returns area of the square.
-            Returns:
-                areas.
-            """
+    def area(self):
+        """returns the area.
+
+        Returns:
+            ares.
+        """
         return self.__size**2
