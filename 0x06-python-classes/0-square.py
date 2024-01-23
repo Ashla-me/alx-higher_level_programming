@@ -9,4 +9,3 @@ class Square:
     An empty square that does nothing
     """
     pass
-
