@@ -1,0 +1,1 @@
+This repository provides a simple demonstration of Python inheritance, showcasing how to create and use classes to establish relationships between them. Inheritance is a powerful object-oriented programming concept that allows a new class to inherit attributes and methods from an existing class, promoting code reusability and organization.
